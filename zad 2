@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="hrv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AXE CAPITAL</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+      }
+
+      header {
+        background-color: black;
+        color: gold;
+        text-align: center;
+        padding: 10px;
+      }
+
+      nav {
+        display: flex;
+        justify-content: center;
+        background-color: black;
+        padding: 10px;
+      }
+
+      nav a {
+        color: gold;
+        text-decoration: none;
+        margin: 0 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://tradersunion.com/images/brokers/728.jpeg"alt="AXE
+      CAPITAL Logo"
+    </header>
+
+    <nav>
+      <a href="#">Naslovnica</a>
+      <a href="#">Novosti</a>
+      <a href="#">Kontakt</a>
+      <a href="#">O nama</a>
+    </nav>
+
+    <!-- Ovdje možete nastaviti s ostalim dijelovima vaše stranice -->
+  </body>
+</html>
